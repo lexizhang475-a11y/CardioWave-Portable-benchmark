@@ -1,1 +1,36 @@
-m«ëˆ§½©buªàºg§¶‹­¦ëlı·§rš®G(uïëzÊ.­Ç¬ı§]ŠØ¨©ojXjØ¨ËZ¶+-‰Ë#²‰Ô±¨m«ë€İ…¹îš(§~)^¢‹­~)^mºŞjFëy©ÊyÚ.¶›­º˜§¶‰bë(~W§‚Øgº`İuç(uç^r‡^Šzn¶^–—b²™ZÊØb²g¬±¨Š)éºØ§¦ë_ŠWyö®–×è®Ë]Šz(ºÚn¶‹­¦ë_ŠWyö®–×è®Ë]¢ë
+{
+  "records": 482,
+  "subjects": 167,
+  "bootstrap": {
+    "resampling_unit": "participant",
+    "replicates": 10000,
+    "seed": 20260904,
+    "interval": "percentile 95% confidence interval"
+  },
+  "sbp": {
+    "error_mean_correlation": -0.4384536298744428,
+    "error_mean_slope": -0.21538537671303906,
+    "error_mean_slope_ci": [-0.2685246412581899, -0.15638765610401728],
+    "lowest_mean_quartile_error": 5.489036512892394,
+    "highest_mean_quartile_error": -3.7484011695492443,
+    "naive_mae": 7.740663900414938,
+    "p3_mae": 6.895486662377364,
+    "paired_mae_improvement": 0.8451772380375749,
+    "paired_mae_improvement_ci": [0.2546249230029211, 1.4460566887863806]
+  },
+  "dbp": {
+    "error_mean_correlation": -0.410727452397695,
+    "error_mean_slope": -0.23646976416109597,
+    "error_mean_slope_ci": [-0.29657943201924575, -0.1706835852685527],
+    "lowest_mean_quartile_error": 5.088748056798229,
+    "highest_mean_quartile_error": -1.777197989174303,
+    "naive_mae": 5.425311203319502,
+    "p3_mae": 5.162300878662616,
+    "paired_mae_improvement": 0.2630103246568866,
+    "paired_mae_improvement_ci": [-0.17038115413334262, 0.691124433240865]
+  },
+  "mae_sum_improvement": {
+    "estimate": 1.1081875626944615,
+    "ci": [0.22989864830434178, 1.9788242315447782]
+  }
+}

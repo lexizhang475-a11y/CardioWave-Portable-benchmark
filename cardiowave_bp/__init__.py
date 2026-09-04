@@ -1,1 +1,3 @@
-m«ëˆ§½©buªàºg§¶‹­¦ëlý·§rš®G(uïÜj·b£¯yºŠx­§%,j›jÇºà7an{¦Š)ßŠW¨¢ë_ŠW›n·š‘ºÞjG§r‡^v‹­¦ën¦)í¢X§zÊ•éà¶î˜7]yÊy×œ¡×¢ž›­†¥¥Ø¬¦V²¶¬™ë,j¢Šzn¶)éº×â•ç^}«¥µú+²×bžŠ.¶›­¢ëiº×â•ç^}«¥µú+²×hº
+"""Utilities for the CardioWave-Portable benchmark workflows."""
+
+__version__ = "1.0.0"

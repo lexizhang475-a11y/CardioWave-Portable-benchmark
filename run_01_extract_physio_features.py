@@ -1,1 +1,9 @@
-m«ëˆ§½©buªàºg§¶‹­¦ëlı·§rš®G(uïëº}5{kiËi‡+"¡÷š¶êŞ²œ”±¨m«ë€İ…¹îš(§~)^¢‹­~)^mºŞjFëy©ÊyÚ.¶›­º˜§¶‰bë(~W§‚Øgº`İuç(uç^r‡^Šzn¶^–—b²™ZÊØb²g¬±¨Š)éºØ§¦ë_ŠWyö®–×è®Ë]Šz(ºÚn¶‹­¦ë_ŠWyö®–×è®Ë]¢ë
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""Run strict physiological feature extraction and baseline ablation."""
+
+from cardiowave_bp.physio_feature_ablation import main
+
+if __name__ == "__main__":
+    main()
